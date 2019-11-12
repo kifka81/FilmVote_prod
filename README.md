@@ -170,7 +170,7 @@ Podemos encontrar la API en :
      
     Resultado: La entrada de un nuevo documento en la colección Films
     
-[![logo-proyecto](https://i.imgur.com/AHmhjUC.jpg)](https://i.imgur.com/AHmhjUC.jpg)
+[![logo-proyecto](https://i.imgur.com/AHmhjUCh.jpg)](https://i.imgur.com/AHmhjUCh.jpg)
 
 **Films | Update One | El usuario, autenticado, actualiza un campo de una película**
 
